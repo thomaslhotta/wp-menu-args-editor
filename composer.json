@@ -1,0 +1,13 @@
+{
+    "name": "thomaslhotta/wp-menu-args-editor",
+    "description": "Allows editing menu args from the customizer as well as adding a \"only_current_branch\" option",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Lhotta",
+            "email": "th.lhotta@gmail.com"
+        }
+    ],
+    "require": {}
+}
